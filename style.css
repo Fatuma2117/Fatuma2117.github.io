@@ -1,1 +1,63 @@
 
+body {
+  background-color: Salmon    
+}
+H1{
+  color: darkblue;
+  Font-family: Courier New
+}
+h2{
+  color: darkblue;
+    font-size: 30px;
+  font-family: Courier New;
+    ;
+  Padding-bottom: 4px
+}
+
+
+.header {
+  background-color:beige;
+  Padding-left: 15px;
+  
+   border: 10px dotted skyblue;
+  border-image: 1px solid black;
+}
+p{
+  color: Darkblue;
+  
+    Font-family:Didot, serif;
+ 
+  
+
+  
+}
+li{
+  color: offblack;
+    
+}
+
+
+Img {
+  width: 150px;
+  border: 1px solid black
+    
+  
+  
+}
+ul{
+  List-style-type: square;
+  Color: cornflowerblue;
+  
+  
+}
+
+
+
+div{
+  border: 100px
+}
+h6{
+  Background-Color:beige;
+  color: darkblue;
+}
+}
